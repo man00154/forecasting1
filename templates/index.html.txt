@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Forecast Plot</title>
+</head>
+<body>
+    <h1>Forecast Output</h1>
+    <img src="/static/plots/forecast.png" alt="Forecast Plot" style="max-width:100%; height:auto;">
+</body>
+</html>
